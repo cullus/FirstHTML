@@ -1,0 +1,170 @@
+.home{
+	width:100%;height:100%;
+	overflow:hidden;
+	background-size:cover;
+	background-position:center;
+	display:none;
+	position:absolute;
+	left:0;top:0;
+	z-index:100;
+}
+.hometop{
+	width:100%;
+	background-size:contain;
+	position:absolute;
+	left:0;top:0;
+}
+.homeiconLevel{
+	width:5.4%;
+	cursor:pointer;
+	font-size:1.2em;
+	background-size:cover;
+	position:absolute;
+	left:0.5%;top:10%;
+}
+.homeiconLevel span{
+	width:100%;
+	text-align:center;
+	line-height:1em;
+	display:inline-block;
+	position:absolute;
+	left:0;bottom:20%;
+}
+.hometopName{
+	width:30%;height:100%;
+	font-size:1.5em;
+	position:absolute;
+	left:7%;top:0;
+}
+.hometopName span{
+	color:#fff;
+	line-height:1em;
+	display:inline-block;
+	position:absolute;
+	bottom:10%;
+}
+.homeresource{
+	width:58%;height:100%;
+	position:absolute;
+	right:6%;top:0;
+}
+.hometopicon{
+	width:25%;height:100%;
+	background-size:cover;
+	float:left;
+	position:relative;
+}
+.hometopicon span{
+	color:#ffb400;
+	display:inline-block;
+	position:absolute;
+	left:30%;bottom:0;
+}
+.hometopBuy{
+	width:3%;
+	cursor:pointer;
+	background-size:cover;
+	position:absolute;
+	right:1%;bottom:10%;
+}
+.hometopiconDiamond{
+	width:14%;
+	font-size:1.1em;
+	background-size:cover;
+	position:absolute;
+	left:0;
+}
+.hometopiconDiamond span{
+	width:60%;height:100%;
+	color:#5accdb;
+	text-align:center;
+	display:inline-block;
+	position:absolute;
+	left:20%;top:0;
+}
+.homeshow{
+	width:80%;height:85%;
+	background-size:cover;
+	background-position:top center;
+	position:absolute;
+	left:0;bottom:0;
+}
+.homeicontable{
+	width:35.6%;
+	position:absolute;
+	right:0;
+}
+.halflist{
+	width:50%;
+	float:left;
+	position:relative;
+}
+.homeicon{
+	width:90%;
+	cursor:pointer;
+	background-size:cover;
+	background-position:center;
+	margin-right:10%;
+	margin-top:10%;
+	position:relative;
+}
+.homeDialog{
+	width:29.7%;
+	background-size:cover;
+	font-size:0.9em;
+	display:none;
+	position:absolute;
+	left:4%;
+}
+.homeDialogText{
+	width:77%;height:3.6em;
+	color:#ffbe00;
+	font-size:1em;
+	line-height:1.2em;
+	margin-left:6%;
+	margin-top:10%;
+}
+.homeiconHide{
+	width:4.3%;
+	cursor:pointer;
+	background-size:cover;
+	background-position:center;
+	position:absolute;
+	left:3%;
+}
+.homeiconQuest{
+	width:23.6%;
+	cursor:pointer;
+	background-size:cover;
+	position:absolute;
+	left:2%;
+}
+.homefooter{
+	width:100%;
+	position:absolute;
+	bottom:2%;
+}
+.homefooterplace{
+	width:53%;
+	background-size:contain;
+	float:left;
+	margin-left:2%;
+	position:relative;
+	left:0;top:0;
+}
+.homefootertable{
+	width:43%;
+	float:left;
+	margin-left:2%;
+	position:relative;
+	left:0;top:0;
+}
+.homefootericon{
+	width:22%;
+	cursor:pointer;
+	background-size:cover;
+	background-position:center;
+	float:left;
+	margin-right:3%;
+	position:relative;
+}
